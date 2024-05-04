@@ -5,6 +5,9 @@
 
 <img width="500" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/55e973a8-b4ec-45bf-896d-6ecad209d684">
 
+<img width="400" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/041fead3-3ab7-46de-a116-95034892c796">
+
+
 
 This project offers a robust solution for users seeking in-depth information about words, including their meanings, phonetics, pronunciation, synonyms, and antonyms. Built with a user-centric approach, this application aims to provide a seamless experience for users of all levels.
 
