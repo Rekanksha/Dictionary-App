@@ -1,9 +1,9 @@
 # Comprehensive Dictionary Web Application
-<img width="379" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/62716627-1849-4ed9-a315-b43ff180a2be">
+<img width="500" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/62716627-1849-4ed9-a315-b43ff180a2be">
 
-<img width="396" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/521134e4-18af-4642-86f0-4a682e7de964">
+<img width="400" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/521134e4-18af-4642-86f0-4a682e7de964">
 
-<img width="385" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/55e973a8-b4ec-45bf-896d-6ecad209d684">
+<img width="500" alt="image" src="https://github.com/Rekanksha/Dictionary-App/assets/138969170/55e973a8-b4ec-45bf-896d-6ecad209d684">
 
 
 This project offers a robust solution for users seeking in-depth information about words, including their meanings, phonetics, pronunciation, synonyms, and antonyms. Built with a user-centric approach, this application aims to provide a seamless experience for users of all levels.
